@@ -1,1 +1,2 @@
-# GitLab_CI_CD
+# GitLab. CI/CD
+
